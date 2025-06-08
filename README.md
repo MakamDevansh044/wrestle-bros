@@ -21,7 +21,7 @@ This project uses **MediaPipe** and **OpenCV** to recognize real-time body movem
 
 ```bash
 pip install -r requirements.txt
-python main.py
+python app.py
 ```
 
 ## 📬 Contact
