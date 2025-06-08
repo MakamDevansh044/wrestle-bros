@@ -15,7 +15,7 @@ This project uses **MediaPipe** and **OpenCV** to recognize real-time body movem
 - PyAutoGUI
 
 ## 📽️ Demo
-[![Watch the video](demo-thumbnail.png)]("/wrestle bros ( demo play).mp4")
+[![Watch the video](demo-thumbnail.png)](https://github.com/MakamDevansh044/wrestle-bros/blob/main/wrestle%20bros%20(%20demo%20play).mp4)
 
 ## 🚀 Getting Started
 
